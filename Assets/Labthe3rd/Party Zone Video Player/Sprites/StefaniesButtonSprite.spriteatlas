@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StefaniesButtonSprite
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 7b239d7406ddfb440bd650f9654df469, type: 3}
+    - {fileID: 21300000, guid: 8a50601cb97660d4a89fac9c745d98e3, type: 3}
+    - {fileID: 21300000, guid: 2774e02f26680ec4b9393679147cf331, type: 3}
+    - {fileID: 21300000, guid: 49fbbb476d93d7d45b7a77d990b1433e, type: 3}
+    - {fileID: 21300000, guid: 717ec3e8cc43a1d4abec226aad2e9a68, type: 3}
+    - {fileID: 21300000, guid: 25d7aa9a0fa06d34cbf537253a5296d9, type: 3}
+    - {fileID: 21300000, guid: f7e6ac75cdd2bec40be3f8215da84f3c, type: 3}
+    - {fileID: 21300000, guid: fba81f4e7c1fc754b9287e2f87d99496, type: 3}
+    - {fileID: 21300000, guid: 7d7108180df9b9c4d8fbb229c1cb144a, type: 3}
+    - {fileID: 21300000, guid: 4cc9d20549e4564438a4ae498b2c8da0, type: 3}
+    - {fileID: 21300000, guid: 38211fef6e36c4649a00ffc5fa0cd64f, type: 3}
+    - {fileID: 21300000, guid: f5b6fc5e53bfec044b67221613c2b0e7, type: 3}
+    - {fileID: 21300000, guid: 447f19d95ff0c504da9f0a9dacc358d7, type: 3}
+    - {fileID: 21300000, guid: 465cd841017ec5b42b92b8b90e5094f1, type: 3}
+    - {fileID: 21300000, guid: 92dc52eeb936ec246ac844315b803cf4, type: 3}
+    - {fileID: 21300000, guid: bd9ea8f2f5e35784382fafaa0b8cce8f, type: 3}
+    - {fileID: 21300000, guid: dc2366542d8657842a8bf5378c77bee0, type: 3}
+    - {fileID: 21300000, guid: df57fed132e9eba448cfb8d87788318c, type: 3}
+    - {fileID: 21300000, guid: fe5c69cb52e569a40b68fc63f7fb5fbb, type: 3}
+    - {fileID: 21300000, guid: 6f7b6c7e47f6aa14b9a42b09b176aa44, type: 3}
+    - {fileID: 21300000, guid: 64d33ea30e2bafa4caaee24128fd5d3b, type: 3}
+    - {fileID: 21300000, guid: 6d0e7b4cbc31762469067cda2c4136f9, type: 3}
+    - {fileID: 21300000, guid: fc01a4a612e79e14094d3a06a0ac5f35, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 465cd841017ec5b42b92b8b90e5094f1: 21300000
+    - df57fed132e9eba448cfb8d87788318c: 21300000
+    - bd9ea8f2f5e35784382fafaa0b8cce8f: 21300000
+    - 64d33ea30e2bafa4caaee24128fd5d3b: 21300000
+    - dc2366542d8657842a8bf5378c77bee0: 21300000
+    - 7b239d7406ddfb440bd650f9654df469: 21300000
+    - 4cc9d20549e4564438a4ae498b2c8da0: 21300000
+    - f7e6ac75cdd2bec40be3f8215da84f3c: 21300000
+    - fc01a4a612e79e14094d3a06a0ac5f35: 21300000
+    - 49fbbb476d93d7d45b7a77d990b1433e: 21300000
+    - 7d7108180df9b9c4d8fbb229c1cb144a: 21300000
+    - 717ec3e8cc43a1d4abec226aad2e9a68: 21300000
+    - 447f19d95ff0c504da9f0a9dacc358d7: 21300000
+    - 25d7aa9a0fa06d34cbf537253a5296d9: 21300000
+    - fe5c69cb52e569a40b68fc63f7fb5fbb: 21300000
+    - 8a50601cb97660d4a89fac9c745d98e3: 21300000
+    - 6d0e7b4cbc31762469067cda2c4136f9: 21300000
+    - fba81f4e7c1fc754b9287e2f87d99496: 21300000
+    - f5b6fc5e53bfec044b67221613c2b0e7: 21300000
+    - 6f7b6c7e47f6aa14b9a42b09b176aa44: 21300000
+    - 92dc52eeb936ec246ac844315b803cf4: 21300000
+    - 2774e02f26680ec4b9393679147cf331: 21300000
+    - 38211fef6e36c4649a00ffc5fa0cd64f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 465cd841017ec5b42b92b8b90e5094f1, type: 3}
+  - {fileID: 21300000, guid: df57fed132e9eba448cfb8d87788318c, type: 3}
+  - {fileID: 21300000, guid: bd9ea8f2f5e35784382fafaa0b8cce8f, type: 3}
+  - {fileID: 21300000, guid: 64d33ea30e2bafa4caaee24128fd5d3b, type: 3}
+  - {fileID: 21300000, guid: dc2366542d8657842a8bf5378c77bee0, type: 3}
+  - {fileID: 21300000, guid: 7b239d7406ddfb440bd650f9654df469, type: 3}
+  - {fileID: 21300000, guid: 4cc9d20549e4564438a4ae498b2c8da0, type: 3}
+  - {fileID: 21300000, guid: f7e6ac75cdd2bec40be3f8215da84f3c, type: 3}
+  - {fileID: 21300000, guid: fc01a4a612e79e14094d3a06a0ac5f35, type: 3}
+  - {fileID: 21300000, guid: 49fbbb476d93d7d45b7a77d990b1433e, type: 3}
+  - {fileID: 21300000, guid: 7d7108180df9b9c4d8fbb229c1cb144a, type: 3}
+  - {fileID: 21300000, guid: 717ec3e8cc43a1d4abec226aad2e9a68, type: 3}
+  - {fileID: 21300000, guid: 447f19d95ff0c504da9f0a9dacc358d7, type: 3}
+  - {fileID: 21300000, guid: 25d7aa9a0fa06d34cbf537253a5296d9, type: 3}
+  - {fileID: 21300000, guid: fe5c69cb52e569a40b68fc63f7fb5fbb, type: 3}
+  - {fileID: 21300000, guid: 8a50601cb97660d4a89fac9c745d98e3, type: 3}
+  - {fileID: 21300000, guid: 6d0e7b4cbc31762469067cda2c4136f9, type: 3}
+  - {fileID: 21300000, guid: fba81f4e7c1fc754b9287e2f87d99496, type: 3}
+  - {fileID: 21300000, guid: f5b6fc5e53bfec044b67221613c2b0e7, type: 3}
+  - {fileID: 21300000, guid: 6f7b6c7e47f6aa14b9a42b09b176aa44, type: 3}
+  - {fileID: 21300000, guid: 92dc52eeb936ec246ac844315b803cf4, type: 3}
+  - {fileID: 21300000, guid: 2774e02f26680ec4b9393679147cf331, type: 3}
+  - {fileID: 21300000, guid: 38211fef6e36c4649a00ffc5fa0cd64f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cut Frame - 3px
+  - Cut Frame Filled Big (200ppu)
+  - Cut Frame Corner Glow
+  - Cut Frame Filled Glow Big
+  - Cut Frame Filled
+  - icon_arrow_12
+  - icon_tool_33
+  - icon_media_18
+  - Filled Square Glow
+  - icon_arrow_60
+  - icon_media_88
+  - icon_arrow_83
+  - Circle Filled Glow
+  - icon_media_1
+  - Cut Frame Filled Big (300ppu)
+  - icon_arrow_27
+  - Filled Square
+  - icon_media_87
+  - button_corner_rectangle1_27
+  - Cut Frame Filled Glow
+  - Cut Frame Corner
+  - icon_arrow_28
+  - icon_tool_34
+  m_RenderDataMap: {}
+  m_Tag: StefaniesButtonSprite
+  m_IsVariant: 0
